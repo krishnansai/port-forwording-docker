@@ -8,6 +8,10 @@ you should change the git repo and dir or in script.sh file
 
 after you can run thoes commands
 
+**git clone https://github.com/krishnansai/port-forwording-docker**
+
+**cd port-forwording-docker/**
+
 **docker build . -t port**
 
 **docker run port**
